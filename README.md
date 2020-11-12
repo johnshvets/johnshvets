@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I’m Ivan!
+
+I’ve set myself a goal to become a Full-Stack Developer. And I am doing my best to achieve this. 
 
 <!--
 **johnshvets/johnshvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
