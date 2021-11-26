@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m Ivan!
-I’ve set myself a goal to become a Full-Stack Developer. And I am doing my best to achieve this.
+I have experience using React.js to create Single-page applications. Aside from my technical competencies, on a personal level I also have a talent for building close relations with other specialists. I possess the communication skills needed to get the best out of others. I’m active, goal-oriented and always open to accept the new challenge.
 
-Skills: React.js / Redux.js / JS / HTML5 / CSS3 / SCSS/SASS
+Skills: React.js / Redux.js / JS / HTML5 / CSS3 / SCSS/SASS / Antd
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshvets&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
