@@ -1,9 +1,8 @@
 ### Hi there 👋, I’m Ivan!
-I have experience using React.js to create Single-page applications. Aside from my technical competencies, on a personal level I also have a talent for building close relations with other specialists. I possess the communication skills needed to get the best out of others. I’m active, goal-oriented and always open to accept the new challenge.
+I have experience to develop React.js Single-page applications for: monetization, e-commerce, insurtech and healthcare platforms. Aside from my technical competencies, on a personal level I also have a talent for building close relations with other specialists. I possess the communication skills needed to get the best out of others. I’m active, goal-oriented and always open to accept the new challenge.
 
-Skills: React.js / Redux.js / JS / HTML5 / CSS3 / SCSS/SASS / Antd
+Skills: React.js / Redux.js / TS / JS / GraphQL / HTML5 / CSS3 / SCSS/SASS / Antd
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshvets&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **johnshvets/johnshvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
