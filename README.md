@@ -1,7 +1,12 @@
 ### Hi there 👋, I’m Ivan!
-I have experience to develop React.js Single-page applications for: monetization, e-commerce, insurtech and healthcare platforms. Aside from my technical competencies, on a personal level I also have a talent for building close relations with other specialists. I possess the communication skills needed to get the best out of others. I’m active, goal-oriented and always open to accept the new challenge.
+My stack includes React, TypeScript, JavaScript, Redux, Next.js, REST APIs, GraphQL/Apollo, Tailwind, HTML, SCSS/SASS, CSS, styled-components and Ant Design.
+I have been working with React/TypeScript technologies for 3 years developing single-page applications for healthcare, e-commerce, social care, insurtech and monetization platform projects. 
 
-Skills: React.js | Redux.js | TypeScript | JavaScript | GraphQL | REST APIs | Redux.js | HTML5 | Tailwind CSS | CSS3 | SCSS/SASS | Antd
+My job is primarily to modify an existing design and functionality of the apps by creating new features to achieve results that business expects. 
+I've been using Next.js for creating public pages of the apps and worked with vanilla HTML and PHP based frameworks.
+I have experience in integrating third-party software such as Twilio, Agora, Auth0, Stripe and Ecommpay for chat, video calls, web authorization and payment system features. 
+
+I am an easy going, open minded, goal-oriented person who is able to build a great relationship with the team. I am always open to new challenges.
 
 <!--
 **johnshvets/johnshvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
