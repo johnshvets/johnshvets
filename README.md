@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Ivan!
+### Hi there 👋, I’m John!
 Experienced in React, TypeScript, JavaScript, Redux, Next.js, REST APIs, GraphQL, Tailwind, HTML, SCSS, CSS, styled-components, and Ant Design. Developed single-page applications for healthcare, e-commerce, social care, insurtech, and monetization platforms. Proficient in Next.js for creating dynamic web pages and TypeScript. Integrated Twilio, Agora, Auth0, Stripe, and Ecommpay to enable advanced features such as chat functionality, video calls, web authorization, and payments. Committed to enhancing app design and functionality, consistently exceeding expectations. Collaborative, adaptable, and driven to tackle new challenges.
 
 <!--
