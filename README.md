@@ -1,5 +1,9 @@
 ### Hi there 👋, I’m John!
-Experienced in React, TypeScript, JavaScript, Redux, Next.js, REST APIs, GraphQL, Tailwind, HTML, SCSS, CSS, styled-components, and Ant Design. Developed single-page applications for healthcare, e-commerce, social care, insurtech, and monetization platforms. Proficient in Next.js for creating dynamic web pages and TypeScript. Integrated Twilio, Agora, Auth0, Stripe, and Ecommpay to enable advanced features such as chat functionality, video calls, web authorization, and payments. Committed to enhancing app design and functionality, consistently exceeding expectations. Collaborative, adaptable, and driven to tackle new challenges.
+Results-driven Frontend Engineer with a strong user-first and accessibility-focused mindset, passionate about building inclusive, high-performing interfaces that balance functionality and design excellence. Known for delivering scalable, intuitive solutions, I thrive at the intersection of design and usability.
+
+Proficient in TypeScript, ReactJS, React Native, Next.js, GraphQL, Tailwind, and AWS, with extensive experience integrating third-party services like Twilio, Agora, Auth0, and Stripe to enhance applications with real-time chat, video calls, authentication, and seamless payments.
+
+I focus on creating accessible, user-centric applications that ensure broad usability for all users. Committed to performance optimization, scalability, and secure e-commerce solutions, I continuously improve products to meet and exceed user expectations.
 
 <!--
 **johnshvets/johnshvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
